@@ -10,16 +10,17 @@ Do the following:
 ## Some heading
 
 ![some-image](./images/readme-010-some-image.png)
-![some-other-image](./images/readme-020-some-other-image.png)
+![new-image](./images/readme-020-new-image.png)
+![some-other-image](./images/readme-030-some-other-image.png)
 
 ## Some other heading
 
-![image](./images/readme-030-image.png)
-![another-image](./images/readme-040-another-image.png)
+![image](./images/readme-040-image.png)
+![another-image](./images/readme-050-another-image.png)
 
 ...
 
 ## Final heading
 
-![image](./images/readme-150-image.png)
-![another-image](./images/readme-160-another-image.png)
+![image](./images/readme-160-image.png)
+![another-image](./images/readme-170-another-image.png)
